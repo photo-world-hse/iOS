@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0457798A-41CB-4C18-88A9-E428779FCC16</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0457798A-41CB-4C18-88A9-E428779FCC16.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278037.84972703</real>
+			<key>timeStoppedRecording</key>
+			<real>703278038.06668305</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>0457798A-41CB-4C18-88A9-E428779FCC16</string>
+		</dict>
+		<key>0BD31EBC-5071-4823-B042-2A811C60B584</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0BD31EBC-5071-4823-B042-2A811C60B584.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277978.36985195</real>
+			<key>timeStoppedRecording</key>
+			<real>703277978.49093795</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0BD31EBC-5071-4823-B042-2A811C60B584</string>
+		</dict>
+		<key>0D231A39-E424-4B8D-8A25-BBC8FA7CD020</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0D231A39-E424-4B8D-8A25-BBC8FA7CD020.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277813.78895295</real>
+			<key>timeStoppedRecording</key>
+			<real>703277816.97823799</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>0D231A39-E424-4B8D-8A25-BBC8FA7CD020</string>
+		</dict>
+		<key>1078A60A-5197-44FA-A840-80D5C5A8CF41</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1078A60A-5197-44FA-A840-80D5C5A8CF41.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277640.06728101</real>
+			<key>timeStoppedRecording</key>
+			<real>703277640.31252098</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>1078A60A-5197-44FA-A840-80D5C5A8CF41</string>
+		</dict>
+		<key>11542543-8A33-4B40-BEAB-073F64922312</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>11542543-8A33-4B40-BEAB-073F64922312.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278044.82855999</real>
+			<key>timeStoppedRecording</key>
+			<real>703278045.02393794</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>11542543-8A33-4B40-BEAB-073F64922312</string>
+		</dict>
+		<key>13CA14DE-40B8-4E9D-A57B-BD19D765A051</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>13CA14DE-40B8-4E9D-A57B-BD19D765A051.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278213.562675</real>
+			<key>timeStoppedRecording</key>
+			<real>703278213.84862602</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>13CA14DE-40B8-4E9D-A57B-BD19D765A051</string>
+		</dict>
+		<key>1514811A-3DC0-44D9-AF2A-644EA255A1D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1514811A-3DC0-44D9-AF2A-644EA255A1D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278059.50094199</real>
+			<key>timeStoppedRecording</key>
+			<real>703278059.55468404</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1514811A-3DC0-44D9-AF2A-644EA255A1D4</string>
+		</dict>
+		<key>179BABC5-6C5C-487E-9CBA-1F6BAD1E4BCE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>179BABC5-6C5C-487E-9CBA-1F6BAD1E4BCE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277990.22170198</real>
+			<key>timeStoppedRecording</key>
+			<real>703277990.44708204</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>179BABC5-6C5C-487E-9CBA-1F6BAD1E4BCE</string>
+		</dict>
+		<key>184FF457-A0E2-4BD5-958F-B0F9BB8C1572</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>184FF457-A0E2-4BD5-958F-B0F9BB8C1572.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277582.59541905</real>
+			<key>timeStoppedRecording</key>
+			<real>703277582.78326797</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>184FF457-A0E2-4BD5-958F-B0F9BB8C1572</string>
+		</dict>
+		<key>19CC6F5C-E8DD-477E-8798-F93327E1782A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>19CC6F5C-E8DD-477E-8798-F93327E1782A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277511.75743306</real>
+			<key>timeStoppedRecording</key>
+			<real>703277511.85058904</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>19CC6F5C-E8DD-477E-8798-F93327E1782A</string>
+		</dict>
+		<key>1D9F14EA-CBF1-47C2-A4C4-3A09B27E62D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1D9F14EA-CBF1-47C2-A4C4-3A09B27E62D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278045.02011704</real>
+			<key>timeStoppedRecording</key>
+			<real>703278045.08700204</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1D9F14EA-CBF1-47C2-A4C4-3A09B27E62D2</string>
+		</dict>
+		<key>1E3602FF-D264-441A-BC58-9E8AFCC8E936</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1E3602FF-D264-441A-BC58-9E8AFCC8E936.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277875.77745295</real>
+			<key>timeStoppedRecording</key>
+			<real>703277875.94764996</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>1E3602FF-D264-441A-BC58-9E8AFCC8E936</string>
+		</dict>
+		<key>39695E21-3F57-4C24-8A6A-8F58BE8FB508</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>39695E21-3F57-4C24-8A6A-8F58BE8FB508.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277640.06694901</real>
+			<key>timeStoppedRecording</key>
+			<real>703277640.42861998</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>39695E21-3F57-4C24-8A6A-8F58BE8FB508</string>
+		</dict>
+		<key>3AF40FCC-BAAD-45A0-AD6C-CA50CE5CC813</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3AF40FCC-BAAD-45A0-AD6C-CA50CE5CC813.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278155.15585995</real>
+			<key>timeStoppedRecording</key>
+			<real>703278155.81936395</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>3AF40FCC-BAAD-45A0-AD6C-CA50CE5CC813</string>
+		</dict>
+		<key>3BFB5960-B2AF-46D2-9D16-2F57E57E65A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3BFB5960-B2AF-46D2-9D16-2F57E57E65A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277813.78930104</real>
+			<key>timeStoppedRecording</key>
+			<real>703277816.88130701</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>3BFB5960-B2AF-46D2-9D16-2F57E57E65A8</string>
+		</dict>
+		<key>3EBE26F8-BF32-4954-974B-92069274BCD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3EBE26F8-BF32-4954-974B-92069274BCD3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277963.09605205</real>
+			<key>timeStoppedRecording</key>
+			<real>703277963.15394199</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3EBE26F8-BF32-4954-974B-92069274BCD3</string>
+		</dict>
+		<key>3F37BFE6-70C8-43E9-9024-349C621D98F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3F37BFE6-70C8-43E9-9024-349C621D98F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277978.18258297</real>
+			<key>timeStoppedRecording</key>
+			<real>703277978.36641502</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>3F37BFE6-70C8-43E9-9024-349C621D98F1</string>
+		</dict>
+		<key>426B5DBE-D319-472F-AD3E-75AACA46463D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>426B5DBE-D319-472F-AD3E-75AACA46463D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277875.95088005</real>
+			<key>timeStoppedRecording</key>
+			<real>703277876.09176898</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>426B5DBE-D319-472F-AD3E-75AACA46463D</string>
+		</dict>
+		<key>42A6EE6D-F158-4DA6-AC57-A77A471B2D0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>42A6EE6D-F158-4DA6-AC57-A77A471B2D0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277582.79083097</real>
+			<key>timeStoppedRecording</key>
+			<real>703277583.12256598</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>42A6EE6D-F158-4DA6-AC57-A77A471B2D0C</string>
+		</dict>
+		<key>432EDBE2-CBE2-4511-AB8F-2F385BA17EF4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>432EDBE2-CBE2-4511-AB8F-2F385BA17EF4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278147.56333399</real>
+			<key>timeStoppedRecording</key>
+			<real>703278147.76992798</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>432EDBE2-CBE2-4511-AB8F-2F385BA17EF4</string>
+		</dict>
+		<key>49C6D107-55BE-46C0-B2B5-A62E5FCE5CDA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>49C6D107-55BE-46C0-B2B5-A62E5FCE5CDA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277658.60155904</real>
+			<key>timeStoppedRecording</key>
+			<real>703277658.82594395</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>49C6D107-55BE-46C0-B2B5-A62E5FCE5CDA</string>
+		</dict>
+		<key>4C37F453-163A-4ACD-8559-44D86956E1C1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4C37F453-163A-4ACD-8559-44D86956E1C1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278147.56291902</real>
+			<key>timeStoppedRecording</key>
+			<real>703278147.86092198</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>4C37F453-163A-4ACD-8559-44D86956E1C1</string>
+		</dict>
+		<key>4FAF2D09-5A69-4505-B462-7B39AC8E2747</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4FAF2D09-5A69-4505-B462-7B39AC8E2747.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278099.53365898</real>
+			<key>timeStoppedRecording</key>
+			<real>703278099.588866</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4FAF2D09-5A69-4505-B462-7B39AC8E2747</string>
+		</dict>
+		<key>57243094-ED5D-4ADE-A2DA-DFEF5E21C60D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>57243094-ED5D-4ADE-A2DA-DFEF5E21C60D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278038.02028298</real>
+			<key>timeStoppedRecording</key>
+			<real>703278038.21457696</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>57243094-ED5D-4ADE-A2DA-DFEF5E21C60D</string>
+		</dict>
+		<key>57E9843A-0C9C-49B8-9500-5EB3A1B59D63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>57E9843A-0C9C-49B8-9500-5EB3A1B59D63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277616.57035005</real>
+			<key>timeStoppedRecording</key>
+			<real>703277616.79300296</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>57E9843A-0C9C-49B8-9500-5EB3A1B59D63</string>
+		</dict>
+		<key>5B605A90-3FF0-4674-9EF0-EF900D048DDE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5B605A90-3FF0-4674-9EF0-EF900D048DDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277616.40327299</real>
+			<key>timeStoppedRecording</key>
+			<real>703277616.68522799</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>5B605A90-3FF0-4674-9EF0-EF900D048DDE</string>
+		</dict>
+		<key>63CF43A7-3959-4240-B92C-99821D6D3228</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>63CF43A7-3959-4240-B92C-99821D6D3228.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277616.40363705</real>
+			<key>timeStoppedRecording</key>
+			<real>703277616.56675696</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>63CF43A7-3959-4240-B92C-99821D6D3228</string>
+		</dict>
+		<key>7FAB5AB5-EEF5-4BE1-B340-681CCDC46850</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7FAB5AB5-EEF5-4BE1-B340-681CCDC46850.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277816.88810897</real>
+			<key>timeStoppedRecording</key>
+			<real>703277817.04058194</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7FAB5AB5-EEF5-4BE1-B340-681CCDC46850</string>
+		</dict>
+		<key>89C694BC-15BB-4F15-8A69-F7038D83EE67</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>89C694BC-15BB-4F15-8A69-F7038D83EE67.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277978.18222296</real>
+			<key>timeStoppedRecording</key>
+			<real>703277978.40320098</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>89C694BC-15BB-4F15-8A69-F7038D83EE67</string>
+		</dict>
+		<key>89CE5F51-E420-468C-9F02-A9DFA5013F9D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>89CE5F51-E420-468C-9F02-A9DFA5013F9D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278155.15551102</real>
+			<key>timeStoppedRecording</key>
+			<real>703278155.80515504</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>89CE5F51-E420-468C-9F02-A9DFA5013F9D</string>
+		</dict>
+		<key>8BA7003A-51F9-4B71-B361-7866C9AB0C9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8BA7003A-51F9-4B71-B361-7866C9AB0C9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277640.31596601</real>
+			<key>timeStoppedRecording</key>
+			<real>703277640.64016104</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8BA7003A-51F9-4B71-B361-7866C9AB0C9C</string>
+		</dict>
+		<key>954EE605-B94D-482D-AC2F-9FB01192CE29</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>954EE605-B94D-482D-AC2F-9FB01192CE29.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277658.60193002</real>
+			<key>timeStoppedRecording</key>
+			<real>703277658.82862699</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>954EE605-B94D-482D-AC2F-9FB01192CE29</string>
+		</dict>
+		<key>A48F6484-BF11-4AB0-91D9-2CF5F7DDACC6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A48F6484-BF11-4AB0-91D9-2CF5F7DDACC6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278044.82901096</real>
+			<key>timeStoppedRecording</key>
+			<real>703278045.01654196</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>A48F6484-BF11-4AB0-91D9-2CF5F7DDACC6</string>
+		</dict>
+		<key>A540C2F6-E98F-4C34-B26F-559E786E081B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A540C2F6-E98F-4C34-B26F-559E786E081B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278302.880144</real>
+			<key>timeStoppedRecording</key>
+			<real>703278303.38119698</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A540C2F6-E98F-4C34-B26F-559E786E081B</string>
+		</dict>
+		<key>A6A78D1F-0772-4E12-8DE8-F2E4B4EC5A6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A6A78D1F-0772-4E12-8DE8-F2E4B4EC5A6E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277658.83055401</real>
+			<key>timeStoppedRecording</key>
+			<real>703277658.93208802</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A6A78D1F-0772-4E12-8DE8-F2E4B4EC5A6E</string>
+		</dict>
+		<key>A8488144-8D6E-4281-B26F-08E623D053AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A8488144-8D6E-4281-B26F-08E623D053AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277875.77708495</real>
+			<key>timeStoppedRecording</key>
+			<real>703277876.03840101</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>A8488144-8D6E-4281-B26F-08E623D053AA</string>
+		</dict>
+		<key>B17DDF2C-F77F-48CD-997C-82B45D24F6D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B17DDF2C-F77F-48CD-997C-82B45D24F6D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278223.67464101</real>
+			<key>timeStoppedRecording</key>
+			<real>703278223.85757303</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B17DDF2C-F77F-48CD-997C-82B45D24F6D1</string>
+		</dict>
+		<key>B2EB8548-99B6-4401-9755-932E3642B803</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B2EB8548-99B6-4401-9755-932E3642B803.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278037.85010505</real>
+			<key>timeStoppedRecording</key>
+			<real>703278038.01723802</real>
+			<key>title</key>
+			<string>PhotoWorld Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>B2EB8548-99B6-4401-9755-932E3642B803</string>
+		</dict>
+		<key>B76F2ED2-33DE-47FE-9009-6892CA76A386</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B76F2ED2-33DE-47FE-9009-6892CA76A386.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277852.45351505</real>
+			<key>timeStoppedRecording</key>
+			<real>703277852.49593198</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B76F2ED2-33DE-47FE-9009-6892CA76A386</string>
+		</dict>
+		<key>B8EABB5B-EBE7-44ED-A2C5-9E5D8D0F0A30</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B8EABB5B-EBE7-44ED-A2C5-9E5D8D0F0A30.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278062.86710799</real>
+			<key>timeStoppedRecording</key>
+			<real>703278063.13263798</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B8EABB5B-EBE7-44ED-A2C5-9E5D8D0F0A30</string>
+		</dict>
+		<key>C50580BA-A88B-4C75-9FF3-A98EFA5D7046</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C50580BA-A88B-4C75-9FF3-A98EFA5D7046.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278213.85201097</real>
+			<key>timeStoppedRecording</key>
+			<real>703278214.07461596</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C50580BA-A88B-4C75-9FF3-A98EFA5D7046</string>
+		</dict>
+		<key>C9EB412B-33B2-4E9E-A91D-9EB4FB9EEF91</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C9EB412B-33B2-4E9E-A91D-9EB4FB9EEF91.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278155.80997002</real>
+			<key>timeStoppedRecording</key>
+			<real>703278156.07661796</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C9EB412B-33B2-4E9E-A91D-9EB4FB9EEF91</string>
+		</dict>
+		<key>D442E68D-D17B-47E5-A568-C40CF94D9A62</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D442E68D-D17B-47E5-A568-C40CF94D9A62.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277821.22481298</real>
+			<key>timeStoppedRecording</key>
+			<real>703277821.277776</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D442E68D-D17B-47E5-A568-C40CF94D9A62</string>
+		</dict>
+		<key>E0A1001B-50EF-4039-890F-E3B0EC990BE8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E0A1001B-50EF-4039-890F-E3B0EC990BE8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277582.59505296</real>
+			<key>timeStoppedRecording</key>
+			<real>703277582.89943302</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>E0A1001B-50EF-4039-890F-E3B0EC990BE8</string>
+		</dict>
+		<key>E3605217-36FF-4609-9A6E-2305C800FCAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E3605217-36FF-4609-9A6E-2305C800FCAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703278213.56233096</real>
+			<key>timeStoppedRecording</key>
+			<real>703278213.98061204</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>E3605217-36FF-4609-9A6E-2305C800FCAC</string>
+		</dict>
+		<key>ED6F948B-401D-45AD-846A-4FB651D6F722</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>ED6F948B-401D-45AD-846A-4FB651D6F722.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>703277511.52060294</real>
+			<key>timeStoppedRecording</key>
+			<real>703277511.74882197</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>ED6F948B-401D-45AD-846A-4FB651D6F722</string>
+		</dict>
+		<key>F17EE5FA-4758-4EE0-89BF-776D8FC547CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F17EE5FA-4758-4EE0-89BF-776D8FC547CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703278147.77366996</real>
+			<key>timeStoppedRecording</key>
+			<real>703278147.964463</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F17EE5FA-4758-4EE0-89BF-776D8FC547CB</string>
+		</dict>
+		<key>F2625C1C-90E9-4A7D-AA0F-88FAFFD18858</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F2625C1C-90E9-4A7D-AA0F-88FAFFD18858.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277642.97585201</real>
+			<key>timeStoppedRecording</key>
+			<real>703277643.02969801</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F2625C1C-90E9-4A7D-AA0F-88FAFFD18858</string>
+		</dict>
+		<key>F2E30032-163F-402D-B405-4C2A7E0882A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F2E30032-163F-402D-B405-4C2A7E0882A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>703277893.04696405</real>
+			<key>timeStoppedRecording</key>
+			<real>703277893.09741104</real>
+			<key>title</key>
+			<string>PhotoWorld Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F2E30032-163F-402D-B405-4C2A7E0882A6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
