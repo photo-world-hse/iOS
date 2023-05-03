@@ -11,8 +11,23 @@ import SwiftUI
 enum PasswordStatus {
         case valid
         case samePassword
-        case shortPassword
+        case weakPassword
     }
+
+extension PasswordStatus {
+    var title: String {
+        get {
+            switch self {
+            case .valid:
+                return ""
+            case .samePassword:
+                return "Пароли не совпадают"
+            case .weakPassword:
+                return "Пароль слишком слабый"
+            }
+        }
+    }
+}
 
 enum Focus {
     case plain
@@ -24,22 +39,33 @@ struct PasswordTextField: View {
     @Binding var password:  String
     @Binding var status: PasswordStatus
     @FocusState private var focusedField: Focus?
+    var label: String? = nil
     
     var body: some View {
-        HStack {
-            secureField()
-            if status == .valid {
-                seePasswordButton()
-            } else {
-                Image("inputError").padding()
+        VStack {
+            if let labelText = label {
+                Text(labelText)
+                    .font(FontScheme.kInterMedium(size: getRelativeHeight(14.0)))
+                    .fontWeight(.medium)
+                    .foregroundColor(ColorConstants.WhiteA700)
+                    .frame(width: getRelativeWidth(getRelativeWidth(343)), height: getRelativeHeight(20.0), alignment: .leading)
+                    .padding([.leading], getRelativeWidth(50))
             }
+            HStack {
+                secureField()
+                if status == .valid {
+                    seePasswordButton()
+                } else {
+                    Image("inputError").padding()
+                }
+            }
+            .frame(width: getRelativeWidth(343.0), height: getRelativeHeight(45.0), alignment: .center)
+            .overlay(RoundedCorners(topLeft: 8.0, topRight: 8.0, bottomLeft: 8.0, bottomRight: 8.0)
+                        .stroke(status == .valid ? ColorConstants.Bluegray800 : ColorConstants.Red400, lineWidth: 1))
+            .background(RoundedCorners(topLeft: 8.0, topRight: 8.0, bottomLeft: 8.0,
+                                       bottomRight: 8.0)
+                            .fill(ColorConstants.Bluegray800))
         }
-        .frame(width: getRelativeWidth(343.0), height: getRelativeHeight(45.0), alignment: .center)
-        .overlay(RoundedCorners(topLeft: 8.0, topRight: 8.0, bottomLeft: 8.0, bottomRight: 8.0)
-                    .stroke(status == .valid ? ColorConstants.Bluegray800 : ColorConstants.Red400, lineWidth: 1))
-        .background(RoundedCorners(topLeft: 8.0, topRight: 8.0, bottomLeft: 8.0,
-                                   bottomRight: 8.0)
-                        .fill(ColorConstants.Bluegray800))
     }
     
     @ViewBuilder
@@ -64,8 +90,10 @@ struct PasswordTextField: View {
                     .padding()
                     .keyboardType(.default)
                     .onChange(of: password, perform: { _  in status = .valid })
-                    .placeholder(when: password.isEmpty, placeholder:
-                                    { Text("Введите пароль").foregroundColor(Color.gray).padding() })
+                    .placeholder(when: password.isEmpty, placeholder: {
+                        Text("Введите пароль").foregroundColor(Color.gray).padding()
+                            .font(FontScheme.kInterMedium(size: getRelativeHeight(14.0)))
+                    })
                     
             } else {
                 SecureField("Password", text: $password)
@@ -75,8 +103,10 @@ struct PasswordTextField: View {
                     .padding()
                     .keyboardType(.default)
                     .onChange(of: password, perform: { _  in status = .valid })
-                    .placeholder(when: password.isEmpty, placeholder:
-                                    { Text("Введите пароль").foregroundColor(Color.gray).padding() })
+                    .placeholder(when: password.isEmpty, placeholder: {
+                        Text("Введите пароль").foregroundColor(Color.gray).padding()
+                            .font(FontScheme.kInterMedium(size: getRelativeHeight(14.0)))
+                    })
             }
         }
 }
