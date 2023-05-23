@@ -12,6 +12,7 @@ enum PasswordStatus {
         case valid
         case samePassword
         case weakPassword
+        case empty
     }
 
 extension PasswordStatus {
@@ -24,6 +25,8 @@ extension PasswordStatus {
                 return "Пароли не совпадают"
             case .weakPassword:
                 return "Пароль слишком слабый"
+            case .empty:
+                return "Требуется ввести пароль"
             }
         }
     }

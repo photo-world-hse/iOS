@@ -18,4 +18,8 @@ class Resolver {
     public func resolve<T>(type: T.Type) -> Any? {
         return objects[String(describing: type)]
     }
+    
+    public func clear() {
+        objects.removeAll()
+    }
 }
